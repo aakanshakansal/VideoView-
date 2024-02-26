@@ -21,7 +21,7 @@
     margin: 0rem 0rem 0.5rem 0rem;
     width: 30%;
     padding: 0.3rem;
-    background-color: red;
+    background-color: blue;
     color: white;
     border-color: white;
     border-radius: 10px;
@@ -43,7 +43,7 @@
 
   .login_username button{
     padding: 0.5rem;
-    background-color: red;
+    background-color: blue;
     color: white;
     font-size: 1rem;
     border-top-left-radius: 20px;
